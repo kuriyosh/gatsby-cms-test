@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: yosyos36/gatsby-cms-test
   branch: main
 
